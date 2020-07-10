@@ -34,10 +34,12 @@ body {
 .main p {
     color: white;
     text-decoration: none;
+    font-family: sans-serif;
 }
 .main a {
     text-decoration: none;
     color: #ffba00;
+    font-family: consolas;
 }
 .main .img {
     border-radius: 20px 0 20px 0;
