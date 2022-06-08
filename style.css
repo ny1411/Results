@@ -43,7 +43,7 @@ body {
 }
 .main .img {
     border-radius: 20px 0 20px 0;
-    max-height: 300px;
+    max-height: 150px;
 }
 
 svg {
